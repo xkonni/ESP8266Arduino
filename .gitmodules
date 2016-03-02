@@ -7,3 +7,6 @@
 [submodule "ESP8266NeoPixel"]
 	path = ESP8266NeoPixel
 	url = git@github.com:xkonni/ESP8266NeoPixel.git
+[submodule "libraries/rc-switch"]
+	path = libraries/rc-switch
+	url = https://github.com/sui77/rc-switch.git
