@@ -4,3 +4,6 @@
 [submodule "libraries/pubsubclient"]
 	path = libraries/pubsubclient
 	url = https://github.com/knolleary/pubsubclient.git
+[submodule "ESP8266NeoPixel"]
+	path = ESP8266NeoPixel
+	url = git@github.com:xkonni/ESP8266NeoPixel.git
