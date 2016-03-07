@@ -10,3 +10,6 @@
 [submodule "libraries/rc-switch"]
 	path = libraries/rc-switch
 	url = https://github.com/sui77/rc-switch.git
+[submodule "ESP8266PowerSwitch"]
+	path = ESP8266PowerSwitch
+	url = git@github.com:xkonni/ESP8266PowerSwitch.git
