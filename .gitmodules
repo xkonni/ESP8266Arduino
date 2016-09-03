@@ -19,3 +19,6 @@
 [submodule "ESP8266DHT"]
 	path = ESP8266DHT
 	url = git@github.com:xkonni/ESP8266DHT.git
+[submodule "DerMondEinStroboskop"]
+	path = DerMondEinStroboskop
+	url = git@github.com:xkonni/arduino_mond
